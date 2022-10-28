@@ -41,3 +41,4 @@
 	<dllmap dll="gdi32" target="/Users/bokken/build/output/Unity-Technologies/mono/external/buildscripts/add_to_build_results/monodistribution/lib/libgdiplus.dylib" os="!windows"/>
 	<dllmap dll="gdi32.dll" target="/Users/bokken/build/output/Unity-Technologies/mono/external/buildscripts/add_to_build_results/monodistribution/lib/libgdiplus.dylib" os="!windows"/>
 </configuration>
+.
